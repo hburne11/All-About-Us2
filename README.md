@@ -1,6 +1,6 @@
 # All-About-Us
 
-# Project Descriptiom
+# Project Description
 Github assignment 1 by Hayden Burnell and Daniela Mesa Diaz. Both contributors created 2 branches, one about themselves and one about their hometowns.
 
 # MIT License
